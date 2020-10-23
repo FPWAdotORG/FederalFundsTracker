@@ -1,20 +1,21 @@
 # FederalFundsTracker
-#Instructions for FPWA Federal Budget Analyzer	
+#
+Instructions for FPWA Federal Budget Analyzer	
 
 **You will need to enable Macros in order to use the Federal Budget Analyzer**											
  *If having difficulty, visit here for support*: (https://support.microsoft.com/en-us/office/enable-or-disable-macros-in-office-files-12b036fd-d140-4e74-b45e-16fed1a7e5c6)										
-(1) FPWA nonprofit human service providing members and advocates in general can use the 'Federal Budget Analyzer' to easily visualize the impact of federal budget proposals on NYC's human services grants and sector											
+1. FPWA nonprofit human service providing members and advocates in general can use the 'Federal Budget Analyzer' to easily visualize the impact of federal budget proposals on NYC's human services grants and sector											
 The federal budget analyzer is updated during each iteration of the federal budget process to reflect the latest proposals (e.g., POTUS, House, Senate)											
 Users can simply copy and paste the charts with a prepopulated title into their respective advocacy materials											
 											
 All Grants 											
-(2) This worksheet allows users to visualize the impact of current federal budget proposals on individual human services grants											
+2. This worksheet allows users to visualize the impact of current federal budget proposals on individual human services grants											
 This tab features the 39 federal human services grants currently included in FPWA's Federal Funds Tracker, and which 78 percent of all social services funding to the City in FY 2020											
-(3) These 39 grants support the Department for the Aging (DFTA), the Department for Youth and Community Development (DYCD), the Department of Social Services (DSS), and  the Administration for Children’s Services (ACS)											
+3. These 39 grants support the Department for the Aging (DFTA), the Department for Youth and Community Development (DYCD), the Department of Social Services (DSS), and  the Administration for Children’s Services (ACS)											
 											
 Member Grants - Summary											
 Many FPWA nonprofit human service providing members rely on a combination of city, state, and federal revenue to support their missions. 											
-(4) FPWA members can use this worksheet to visualize the impact of current federal budget proposals on their organizations											
+4. FPWA members can use this worksheet to visualize the impact of current federal budget proposals on their organizations											
 This analysis includes the impact on a members' individual grants and overall federal funding											
 											
 Member Charts - Percent Cuts											
